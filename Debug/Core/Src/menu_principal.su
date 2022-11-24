@@ -1,0 +1,8 @@
+menu_principal.c:12:6:set_menu	130632	static
+menu_principal.c:8227:6:aff_select	16	static
+menu_principal.c:8247:6:select_jouer	5448	static
+menu_principal.c:8642:6:select_regles	5448	static
+menu_principal.c:9037:6:select_credits	5448	static
+menu_principal.c:9432:6:unselect_jouer	5464	static
+menu_principal.c:9846:6:unselect_regles	5464	static
+menu_principal.c:10259:6:unselect_credits	5464	static

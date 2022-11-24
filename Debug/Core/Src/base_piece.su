@@ -1,0 +1,4 @@
+base_piece.c:11:6:dispPiece1	296	static
+base_piece.c:61:6:dispPiece2	296	static
+base_piece.c:109:6:dispPiece3	296	static
+base_piece.c:157:6:dispVoid	32	static

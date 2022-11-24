@@ -1,0 +1,4 @@
+small_piece.c:11:6:dispSmallPiece1	184	static
+small_piece.c:55:6:dispSmallPiece2	184	static
+small_piece.c:98:6:dispSmallPiece3	184	static
+small_piece.c:141:6:dispSmallVoid	32	static

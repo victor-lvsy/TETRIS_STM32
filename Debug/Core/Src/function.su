@@ -1,0 +1,15 @@
+function.c:24:6:init_grid	24	static
+function.c:43:6:init_pieces	40	static
+function.c:58:8:create_piece	16	static
+function.c:89:7:BuildList	32	static
+function.c:98:7:SwapList	24	static
+function.c:106:6:dispGrid	24	static
+function.c:138:6:dispNextPiece	88	static
+function.c:186:6:dispPiece	32	static
+function.c:210:5:test_hit	32	static
+function.c:229:6:fall	48	static
+function.c:262:5:testGameOver	24	static
+function.c:272:6:move_piece	32	static
+function.c:299:5:test_lines	40	static
+function.c:332:6:delete_line	24	static
+function.c:340:6:core	944	static
